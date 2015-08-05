@@ -1,0 +1,6 @@
+*.log
+*.dat
+.DS_store
+logs
+node_modules
+*.sublime*
