@@ -4,7 +4,7 @@
 	
 ##Example
 
-	```javascript
+	```js
 	var gulp = require('gulp');
 	var git = require('gulp-git');
 	
