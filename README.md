@@ -4,7 +4,7 @@
 	
 ##Example
 
-	```js
+```javascript
 	var gulp = require('gulp');
 	var git = require('gulp-git');
 	
@@ -38,7 +38,7 @@
 				isHEAD: true
 			}));
 	});
-	```
+```
 
 ##API
 ### todo
